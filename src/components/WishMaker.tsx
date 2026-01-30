@@ -17,7 +17,7 @@ const WishMaker = ({ onBack }: WishMakerProps) => {
     "To travel the world hand in hand with Poorvi",
     "To fill our home with love and laughter with you",
     "To support you through every challenge, Poorvi",
-    "To grow old with you—hearts forever young",
+    "To grow old with you, hearts forever young",
     "To wake up next to Poorvi every morning",
     "To celebrate every little victory with my cutie",
     "To be your greatest adventure, Poorvi",
@@ -26,8 +26,8 @@ const WishMaker = ({ onBack }: WishMakerProps) => {
     "To cherish you every single day, my cutie",
     "To love Poorvi more with every heartbeat",
     "To always remind you how special you are",
-    "To hold Poorvi's hand through every season",
-    "To be your best friend, always and forever—Poorvi",
+    "To hold your hand through every season",
+    "To be your best friend, always and forever, Poorvi",
   ];
 
   useEffect(() => {

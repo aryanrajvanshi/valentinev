@@ -10,7 +10,7 @@ const Welcome = ({ onNext }: WelcomeProps) => {
       <img src={gif} alt="Welcome" className="w-1/2" />
       <h1 className="text-4xl text-primary font-bold">Welcome, Poorvi My Cutie</h1>
       <p className="text-lg max-w-2xl text-primary font-bold">
-        I've prepared something special just for you, Poorvi—an enchanting journey through
+        I've prepared something special just for you, Poorvi, an enchanting journey through
         mystery, emotion, and dreams. Each step will reveal a piece of my heart,
         guiding you through a world of meaning, connection, and love. Every moment
         holds something just for my cutie. ✨❤️

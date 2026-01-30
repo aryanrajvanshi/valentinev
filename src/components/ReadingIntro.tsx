@@ -15,7 +15,7 @@ const ReadingIntro = ({ onNext }: ReadingIntroProps) => {
           about our journey together, my cutie.
         </p>
         <p>
-          I've prepared three special readings for you—each offering a glimpse into
+          I've prepared three special readings for you, each offering a glimpse into
           different aspects of our shared future with Poorvi.
         </p>
         <p className="text-xl mt-6">

@@ -27,7 +27,7 @@ const LoveLetter = ({ onBack }: LoveLetterProps) => {
             My Dearest Poorvi, My Cutie
           </h2>
           <p className="text-lg leading-relaxed">
-            Every moment with you, Poorvi, is a treasure—every laugh a melody, and every
+            Every moment with you, Poorvi, is a treasure, every laugh a melody, and every
             hug a little piece of home. You make my world brighter just by being
             in it, and I'm so grateful for my cutie. May your days be filled with
             joy, your heart with warmth, and your dreams with endless

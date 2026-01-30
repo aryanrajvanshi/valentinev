@@ -17,7 +17,7 @@ const PromisesPage = ({ onNext }: PromisesPageProps) => {
     "I promise to cherish every moment with you, Poorvi.",
     "I promise to love you more with each passing day, my cutie.",
     "I promise to be your safe haven, Poorvi.",
-    "I promise to choose you, every single day—Poorvi.",
+    "I promise to choose you, every single day, Poorvi.",
   ];
 
   useEffect(() => {

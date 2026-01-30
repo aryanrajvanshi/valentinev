@@ -51,7 +51,7 @@ const TarotsGift = ({
             Eternal Scroll
           </h3>
           <p className="text-sm text-gray-600">
-            A love letter for Poorvi—a hidden message from destiny for my cutie.
+            A love letter for Poorvi, a hidden message from destiny for my cutie.
           </p>
         </div>
 
@@ -92,7 +92,7 @@ const TarotsGift = ({
             Endless Love
           </h3>
           <p className="text-sm text-gray-600">
-            Deep, unbreakable love for Poorvi—forever united with my cutie.
+            Deep, unbreakable love for Poorvi, forever united with my cutie.
           </p>
         </div>
       </div>

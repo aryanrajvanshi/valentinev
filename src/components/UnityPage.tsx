@@ -9,7 +9,7 @@ const UnityPage = ({ onBack }: UnityPageProps) => {
   const [showFinalMessage, setShowFinalMessage] = useState(false);
   const [showBackButton, setShowBackButton] = useState(false);
   const [typedMessage, setTypedMessage] = useState("");
-  const finalMessage = "Poorvi, my cutie—endless love for you is not just spoken, it is felt, forever.";
+  const finalMessage = "Poorvi, my cutie. Endless love for you is not just spoken, it is felt, forever.";
 
   const messages = [
     { text: "Poorvi is my trust", x: -140, y: -100 },
