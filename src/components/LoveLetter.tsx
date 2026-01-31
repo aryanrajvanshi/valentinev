@@ -10,7 +10,7 @@ const LoveLetter = ({ onBack }: LoveLetterProps) => {
   return (
     <div className="flex flex-col items-center gap-8 p-4">
       <h2 className="text-3xl text-primary font-bold">
-        {isUnfolded ? "Here's your letter, Poorvi" : "Poorvi, you received a letter!"}
+        {isUnfolded ? "Here's your letter, Veruschka" : "Veruschka, you received a letter!"}
       </h2>
       {!isUnfolded && (
         <p className="text-lg text-primary">
@@ -24,17 +24,17 @@ const LoveLetter = ({ onBack }: LoveLetterProps) => {
       >
         <div className="max-w-2xl p-8 bg-pink-50 rounded-lg shadow-lg">
           <h2 className="text-3xl text-primary font-bold mb-6">
-            My Dearest Poorvi, My Cutie
+            My Dearest Veruschka, My Cutie
           </h2>
           <p className="text-lg leading-relaxed">
-            Every moment with you, Poorvi, is a treasure, every laugh a melody, and every
+            Every moment with you, princess, is a treasure, every laugh a melody, and every
             hug a little piece of home. You make my world brighter just by being
             in it, and I'm so grateful for my cutie. May your days be filled with
             joy, your heart with warmth, and your dreams with endless
-            possibilities. I love you, Poorvi.
+            possibilities. I love you, baby.
           </p>
           <p className="text-right mt-8">With all my love,</p>
-          <p className="text-right">❤️ For Poorvi, always</p>
+          <p className="text-right">❤️ For Veruschka, always</p>
         </div>
       </div>
       {!isUnfolded ? (
