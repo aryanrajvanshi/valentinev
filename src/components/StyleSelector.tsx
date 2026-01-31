@@ -25,7 +25,7 @@ const StyleSelector = ({ onSelect }: StyleSelectorProps) => {
   return (
     <div className="flex flex-col items-center gap-8 p-4 text-center">
       <h2 className="text-3xl text-primary font-bold">
-        Choose Your Card Style, Poorvi
+        Choose Your Card Style, Veruschka
       </h2>
       <p className="text-lg max-w-2xl text-primary font-bold mb-4">
         Select the artistic style that resonates with your heart, my cutie.
