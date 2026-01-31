@@ -10,14 +10,14 @@ const PromisesPage = ({ onNext }: PromisesPageProps) => {
   const [showNextButton, setShowNextButton] = useState(false);
 
   const promises = [
-    "I promise to always support and uplift you, Poorvi.",
+    "I promise to always support and uplift you, Veruschka.",
     "I promise to grow together with my cutie.",
-    "I promise to make Poorvi smile every day.",
+    "I promise to make Veruschka smile every day.",
     "I promise to be your partner in every adventure.",
-    "I promise to cherish every moment with you, Poorvi.",
+    "I promise to cherish every moment with you, Veruschka.",
     "I promise to love you more with each passing day, my cutie.",
-    "I promise to be your safe haven, Poorvi.",
-    "I promise to choose you, every single day, Poorvi.",
+    "I promise to be your safe haven, Veruschka.",
+    "I promise to choose you, every single day, Veruschka.",
   ];
 
   useEffect(() => {
@@ -54,7 +54,7 @@ const PromisesPage = ({ onNext }: PromisesPageProps) => {
     >
       {/* <Flower /> */}
       <h1 className="text-3xl text-primary font-bold mb-12">
-        My Promises to You, Poorvi
+        My Promises to You, Veruschka
       </h1>
 
       <div className="w-full max-w-2xl">
