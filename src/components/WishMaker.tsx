@@ -9,25 +9,25 @@ const WishMaker = ({ onBack }: WishMakerProps) => {
   const [visibleWishes, setVisibleWishes] = useState<number>(0);
 
   const wishes = [
-    "To share countless sunsets with you, Poorvi",
-    "To make my cutie Poorvi smile every day",
-    "To build our dreams together, Poorvi",
+    "To share countless sunsets with you, Veruschka",
+    "To make my cutie Veruschka smile every day",
+    "To build our dreams together, Veruschka",
     "To create a lifetime of memories with you",
     "To always be your safe place, my cutie",
-    "To travel the world hand in hand with Poorvi",
+    "To travel the world hand in hand with Veruschka",
     "To fill our home with love and laughter with you",
-    "To support you through every challenge, Poorvi",
+    "To support you through every challenge, Veruschka",
     "To grow old with you, hearts forever young",
-    "To wake up next to Poorvi every morning",
+    "To wake up next to Veruschka every morning",
     "To celebrate every little victory with my cutie",
-    "To be your greatest adventure, Poorvi",
+    "To be your greatest adventure, Veruschka",
     "To write our love story that never ends",
-    "To always dance in the kitchen with Poorvi",
+    "To always dance in the kitchen with Veruschka",
     "To cherish you every single day, my cutie",
-    "To love Poorvi more with every heartbeat",
+    "To love Veruschka more with every heartbeat",
     "To always remind you how special you are",
     "To hold your hand through every season",
-    "To be your best friend, always and forever, Poorvi",
+    "To be your best friend, always and forever, Veruschka",
   ];
 
   useEffect(() => {
@@ -47,7 +47,7 @@ const WishMaker = ({ onBack }: WishMakerProps) => {
 
   return (
     <div className="flex flex-col items-center gap-8 p-4">
-      <h2 className="text-3xl text-primary font-bold">My Wishes For You, Poorvi</h2>
+      <h2 className="text-3xl text-primary font-bold">My Wishes For You, Veruschka</h2>
       <div className="w-full max-w-4xl h-[60vh] overflow-y-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           {showWishes &&
