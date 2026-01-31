@@ -24,7 +24,7 @@ const LoveLetter = ({ onBack }: LoveLetterProps) => {
       >
         <div className="max-w-2xl p-8 bg-pink-50 rounded-lg shadow-lg">
           <h2 className="text-3xl text-primary font-bold mb-6">
-            My Dearest Veruschka, My Cutie
+            My Dearest Babygirl,
           </h2>
           <p className="text-lg leading-relaxed">
             Every moment with you, princess, is a treasure, every laugh a melody, and every
@@ -34,7 +34,7 @@ const LoveLetter = ({ onBack }: LoveLetterProps) => {
             possibilities. I love you, baby.
           </p>
           <p className="text-right mt-8">With all my love,</p>
-          <p className="text-right">❤️ For Veruschka, always</p>
+          <p className="text-right">❤️ Aryan</p>
         </div>
       </div>
       {!isUnfolded ? (
