@@ -10,13 +10,13 @@ const PromisesPage = ({ onNext }: PromisesPageProps) => {
   const [showNextButton, setShowNextButton] = useState(false);
 
   const promises = [
-    "I promise to always support and uplift you, Veruschka.",
+    "I promise to always support and uplift you",
     "I promise to grow together with my cutie.",
     "I promise to make Veruschka smile every day.",
     "I promise to be your partner in every adventure.",
     "I promise to cherish every moment with you, Veruschka.",
-    "I promise to love you more with each passing day, my cutie.",
-    "I promise to be your safe haven, Veruschka.",
+    "I promise to love you more with each passing day",
+    "I promise to be your safe haven love",
     "I promise to choose you, every single day, Veruschka.",
   ];
 
