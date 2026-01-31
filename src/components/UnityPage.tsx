@@ -9,7 +9,7 @@ const UnityPage = ({ onBack }: UnityPageProps) => {
   const [showFinalMessage, setShowFinalMessage] = useState(false);
   const [showBackButton, setShowBackButton] = useState(false);
   const [typedMessage, setTypedMessage] = useState("");
-  const finalMessage = "Veruschka, my cutie. Endless love for you is not just spoken, it is felt, forever.";
+  const finalMessage = "Veruschka, my baby. Endless love for you is not just spoken, it is felt, forever.";
 
   const messages = [
     { text: "Veruschka is my trust", x: -140, y: -100 },
@@ -17,7 +17,7 @@ const UnityPage = ({ onBack }: UnityPageProps) => {
     { text: "Love is patience with you", x: -160, y: -20 },
     { text: "Veruschka, I understand you", x: 0, y: 40 },
     { text: "You're my comfort, Veruschka", x: -120, y: 80 },
-    { text: "We grow together, cutie", x: 30, y: -40 },
+    { text: "We grow together, Veruschka", x: 30, y: -40 },
     { text: "You're my adventure, Veruschka", x: -100, y: -60 },
     { text: "Veruschka is my home", x: -20, y: 100 },
     { text: "Forever with you, Veruschka", x: -60, y: 20 },
